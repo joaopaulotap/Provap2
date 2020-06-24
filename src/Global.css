@@ -47,8 +47,10 @@ font-weight: bold;
   list-style: none;
 }
 .container .content ul li {
-  background: #858484;
+  background: #7e9cff;
   padding: 20px;
   position: relative;
-  color: #4d4d4d;
+  color: #000000;
+  margin-right: 3%;
+
 }
